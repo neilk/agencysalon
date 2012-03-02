@@ -1,0 +1,95 @@
+Announcing: Agency Salon #1: Protecting Digital Freedoms
+
+Website: https://agencysalon.org/
+
+When & Where
+
+   Sunday, March 4, 2012
+   3:00pm
+
+   Langton Labs
+   9 Langton St., San Francisco, CA 94103
+
+   Donations gratefully accepted at the door.
+
+What it's all about:
+
+   Does reading the news lately make you crazy? Does every day seem to
+   bring a new outrage?
+
+   Are you amazed to find yourself turning into someone who knows laws by
+   their acronym, like SOPA, PIPA, NDAA, or PCIPA?
+
+   Are you getting more and more worried about protecting your privacy
+   online? But maybe you don't know where to start?
+
+   We feel the same way. We're a group of hackers, artists, and academics
+   who know each other from pulling pranks or doing big art projects,
+   often at Burning Man. Most of us wouldn't have called ourselves
+   "political" until recently.
+
+   But in San Francisco we know how to achieve apparently impossible
+   things, as a community. And we feel like the time is right for people
+   like us to step up and see what we can do — with art, technology and
+   direct action.
+
+   We're starting out by holding a salon on Sunday, March 4th, at 3:00pm,
+   on the theme of "Protecting Digital Freedoms". We'll have speakers to
+   inform, inspire, and entertain, but what we really hope is that you'll
+   be energized by finding some thing that you want to *do*.
+ 
+Speakers
+
+   Your host for the afternoon is Aaron Muszalski, (@sfslim), storyteller,
+   writer and maker. He's changing the world through collaborative
+   culture, online activism and tactical whimsy.
+
+   "Towards Internet Scale Democracy" with Neil Kandalgaonkar
+
+   Neil Kandalgaonkar (brevity.org | @flipzagging) is a hacker who has had
+   a small part making some of the websites you use every day, like Google
+   and Flickr, and a large part making the ones you forgot about, like
+   Upcoming.org. He's talking today about his new project for achieving
+   consensus among large groups of people.
+
+   "The Wikipedia Blackout" with Geoff Brigham
+
+   Geoff Brigham is the legal counsel for the Wikimedia Foundation, the
+   non-profit that runs Wikipedia. He'll be talking about the recent
+   "strike" that Wikipedia held to protest SOPA, how the community came to
+   decide to do that, and the implications for the future. Geoff's résumé
+   includes being a VP and deputy counsel for eBay, serving as a U.S.
+   Attorney for Miami, and busking on the streets of Paris.
+
+   "Nymwars" with Eva Galperin
+
+   Anonymity and pseudonymity have a long history in public discourse, but
+   real name policies on social networks and in the comment sections of
+   blogs and newspapers are endangering this tradition on the Internet.
+   This talk will cover the ongoing battle between real names and "nyms"
+   online.
+
+   Eva Galperin (@evacide) is an activist for the Electronic Frontier
+   Foundation, where she does education, mobilization, and outreach on all
+   things related to digital civil liberties. Prior to EFF, Eva worked at
+   the US-China Policy Institute, where she helped to organize conferences
+   and research Chinese energy policy. She has Bachelor's degrees from
+   SFSU in International Relations and Political Science, which she is
+   continuously astonished to find useful on a daily basis.
+
+   "Practical Privacy and Anonymity on the Internet: Tor and More" 
+   (30-45 min workshop) led by Morgan Marquis-Boire.
+
+   Morgan Marquis-Boire (@headhntr) has worked in the field of security
+   and privacy for over a decade in many capacities, from punk kid to
+   corporate shill. Prior to his present incarnation as a corporate
+   security guy for a little known search engine, Morgan has been known to
+   dabble in cluster computing, critical infrastructure, open-source
+   security, and doomed Japanese start-ups.
+
+   Morgan will present a brief history of anonymity on the internet,
+   followed by a hands-on workshop showing you how to protect yourself
+   from prying eyes by using Tor, the world's most commonly used anonymity
+   service. Bring your laptops!
+
+

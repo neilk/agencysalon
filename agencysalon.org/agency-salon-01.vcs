@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20120304T150000
+DTEND:20120204T180000
+LOCATION:9 Langton Labs, San Francisco, CA 94103
+DESCRIPTION:Host: Aaron Muszalski  Speakers: Neil Kandalgaonkar, Geoff Brigham, Eva Galperin, Morgan Marquis-Boire  Morgan will be holding a workshop on installing the Tor anonymity & privacy software -- laptops welcome.
+SUMMARY:Agency Salon #1: Protecting Digital Freedoms
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

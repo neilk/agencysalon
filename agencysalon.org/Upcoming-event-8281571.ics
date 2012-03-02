@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:Upcoming Event: Sinbad
+PRODID:-//Upcoming.org/Upcoming ICS//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20120331T200000
+DURATION:PT0S
+TRANSP:TRANSPARENT
+SUMMARY:Sinbad
+DESCRIPTION: [Full details at http://upcoming.yahoo.com/event/8281571/ ] Event: Sinbad Venue: Eisemann Center Start: 3/31/2012 8:00:00 PM Category: CONCERTS COMEDY
+URL;VALUE=URI:http://upcoming.yahoo.com/event/8281571/
+UID:http://upcoming.yahoo.com/event/8281571/
+DTSTAMP:20110815T145205
+LAST-MODIFIED:20110815T145205
+CATEGORIES:Music
+ORGANIZER;CN=UpcomingEvents.net:X-ADDR:http://upcoming.yahoo.com/user/1273597/
+LOCATION;ALTREP="http://upcoming.yahoo.com/venue/887017/":Eisemann Center @ 2351 Performance Dr\, Richardson\, Texas 75082 US
+END:VEVENT
+END:VCALENDAR

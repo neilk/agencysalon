@@ -1,0 +1,1 @@
+rsync -e ssh -av brevity@epiphone.dreamhost.com:/home/brevity/agencysalon.org /home/neilk/Documents/APAC
